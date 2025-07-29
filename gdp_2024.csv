@@ -1,25 +1,25 @@
-Continent,Country,Value
-North America,United States,26.215612704320794
-Asia,China,16.836804405719054
-Europe,Germany,4.185827074401408
-Asia,Japan,3.6165832234807183
-Asia,India,3.514608594690747
-Europe,United Kingdom,3.2731096759965763
-Europe,France,2.8403684348717055
-Europe,Italy,2.1313679297614057
-North America,Canada,2.0132276213967595
-South America,Brazil,1.9576782038280838
-Europe,Russia,1.9526692610624543
-North America,Mexico,1.6642264407492506
-Oceania,Australia,1.5739247648144612
-Europe,Spain,1.5474734136726498
-Asia,South Korea,1.5385329226355668
-Asia,Indonesia,1.2542402110537187
-Asia,Türkiye,1.1886265652259878
-Asia,Saudi Arabia,1.1116232987194117
-Europe,Netherlands,1.102653329295971
-Europe,Switzerland,0.841277945154931
-Europe,Poland,0.8216350090555489
-Europe,Belgium,0.5969512716692067
-South America,Argentina,0.5688379963059441
-Rest of the World,Rest of the World,16.342524128572506
+Continent,Country,Value,Flag
+North America,United States,26.215612704320797,fig/us.svg
+Asia,China,16.836804405719054,fig/cn.svg
+Europe,Germany,4.185827074401408,fig/de.svg
+Asia,Japan,3.6165832234807183,fig/jp.svg
+Asia,India,3.514608594690747,fig/in.svg
+Europe,United Kingdom,3.2731096759965763,fig/gb.svg
+Europe,France,2.840368434871705,fig/fr.svg
+Europe,Italy,2.1313679297614057,fig/it.svg
+North America,Canada,2.0132276213967595,fig/ca.svg
+South America,Brazil,1.957678203828084,fig/br.svg
+Europe,Russia,1.9526692610624543,fig/ru.svg
+North America,Mexico,1.6642264407492506,fig/mx.svg
+Oceania,Australia,1.5739247648144612,fig/au.svg
+Europe,Spain,1.5474734136726498,fig/es.svg
+Asia,South Korea,1.5385329226355668,fig/kr.svg
+Asia,Indonesia,1.2542402110537187,fig/id.svg
+Asia,Türkiye,1.1886265652259878,fig/tr.svg
+Asia,Saudi Arabia,1.1116232987194117,fig/sa.svg
+Europe,Netherlands,1.102653329295971,fig/nl.svg
+Europe,Switzerland,0.841277945154931,fig/ch.svg
+Europe,Poland,0.8216350090555489,fig/pl.svg
+Europe,Belgium,0.5969512716692067,fig/be.svg
+South America,Argentina,0.5688379963059441,fig/ar.svg
+Rest of the World,Rest of the World,16.342524128572506,fig/earth.svg
